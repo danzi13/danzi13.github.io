@@ -1,0 +1,122 @@
+{
+  "tos": {
+    "title": "Terms of Service",
+    "sections": [
+      {
+        "body": "Effective Date: Feb 5th 2026\nLast Updated: Apr 19th 2026\n\nBy accessing or using Crown, you agree to these Terms of Service. If you do not agree, do not use the app."
+      },
+      {
+        "header": "1. About Crown",
+        "body": "Crown is a daily competition app designed for families, friends, and small groups. Users participate in mini-games, earn points, and compete in rankings.\n\nCrown may modify, suspend, or discontinue any feature at any time."
+      },
+      {
+        "header": "2. Eligibility",
+        "body": "You must be at least 13 years old to use Crown.\n\nIf you are under 18, you represent that you have permission from a parent or legal guardian."
+      },
+      {
+        "header": "3. Accounts & Identity",
+        "body": "Crown uses device-based identity and anonymous authentication via Supabase. You are responsible for maintaining the security of your device and account.\n\nYou are responsible for:\n- All activity under your account\n- Ensuring your account information is accurate\n\nCrown may suspend or terminate accounts that violate these Terms."
+      },
+      {
+        "header": "4. Feedback & Communications",
+        "body": "If you submit feedback, a bug report, a player report, a support request, or otherwise provide contact information to Crown, you agree that Crown may use the contact information associated with your account, including a linked email address, and any contact information you include in your submission to contact you about that submission, your account, safety issues, abuse reports, technical issues, or related service matters."
+      },
+      {
+        "header": "5. User Conduct",
+        "body": "You agree not to:\n- Cheat, manipulate scores, or exploit game mechanics\n- Attempt to reverse engineer, hack, or interfere with the app\n- Use the app for unlawful purposes\n- Impersonate another person or group\n- Harass or disrupt other users\n\nCrown may remove content, adjust scores, suspend, or terminate accounts at its sole discretion. There is zero tolerance for objectionable content or abusive users."
+      },
+      {
+        "header": "6. Gameplay, Rankings & Fair Play",
+        "body": "Each mini-game may be played once per day unless otherwise specified.\n\nPoints and rankings are determined by Crown’s systems. We reserve the right to review, modify, invalidate, or remove scores or rankings at our sole discretion, including for suspected abuse, technical errors, or unfair behavior. All gameplay decisions are final.\n\nCrown does not guarantee uninterrupted service, real-time leaderboard accuracy, or error-free scoring."
+      },
+      {
+        "header": "7. Groups",
+        "body": "Users may create private invite-only groups using join codes. Group leaders may manage membership and settings. You are responsible for the conduct of the people you invite and interact with in your groups. Crown may remove content, restrict features, or suspend accounts or groups that violate these Terms."
+      },
+      {
+        "header": "8. Subscriptions & Payments (Future Features)",
+        "body": "Crown may introduce paid subscriptions or premium features in the future.\n\nIf subscriptions are offered:\n- Subscriptions will auto-renew on a recurring monthly basis unless canceled.\n- Pricing and billing terms will be disclosed at the time of purchase.\n- You may cancel at any time through your platform provider.\n- Except where required by law, payments are non-refundable.\n- Virtual features have no cash value and are non-transferable."
+      },
+      {
+        "header": "9. Intellectual Property",
+        "body": "Crown and its licensors retain all rights in the app’s branding, software, design, and original content. These Terms do not claim ownership over generic game concepts, public-domain elements, or other material not owned by Crown. You may not copy, modify, distribute, or create derivative works from Crown-owned app materials except as allowed by law or with written permission."
+      },
+      {
+        "header": "10. Disclaimer of Warranties",
+        "body": "THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, CROWN MAKES NO WARRANTIES REGARDING AVAILABILITY, RELIABILITY, SCORING ACCURACY, OR ERROR-FREE OPERATION. YOUR USE OF THE APP IS AT YOUR OWN RISK. TECHNICAL ERRORS, NETWORK LATENCY, OR DATA LOSS MAY OCCUR."
+      },
+      {
+        "header": "11. Limitation of Liability",
+        "body": "To the fullest extent permitted by law, Crown shall not be liable for indirect, incidental, special, consequential, or punitive damages. Crown’s total liability shall not exceed the greater of the amount you paid to Crown in the past 12 months or $100."
+      },
+      {
+        "header": "12. Indemnification",
+        "body": "You agree to indemnify and hold harmless Crown from any claims arising out of your use of the app or violation of these Terms."
+      },
+      {
+        "header": "13. Termination",
+        "body": "Crown may suspend or terminate your account at its discretion for violations of these Terms or misuse of the app. You may stop using Crown at any time."
+      },
+      {
+        "header": "14. Dispute Resolution & Arbitration",
+        "body": "Any dispute shall be resolved through binding individual arbitration in the United States. You agree not to participate in class actions. You may opt out of arbitration within 30 days of first accepting these Terms by contacting danzimichael13@gmail.com."
+      },
+      {
+        "header": "15. Governing Law",
+        "body": "These Terms are governed by the laws of the State of New York, without regard to conflict of law principles."
+      },
+      {
+        "header": "16. Changes to These Terms",
+        "body": "Crown may update these Terms from time to time. Continued use of the app after changes become effective constitutes acceptance of the revised Terms."
+      },
+      {
+        "header": "17. Contact",
+        "body": "For questions about these Terms, contact: danzimichael13@gmail.com"
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "body": "Effective Date: Feb 5th 2026\nLast Updated: Apr 19th 2026\n\nCrown (\"we,\" \"us,\" or \"the app\") respects your privacy. This policy explains how we collect, use, and share information when you use Crown."
+      },
+      {
+        "header": "1. Information We Collect",
+        "body": "User-provided:\n• Nickname, emoji, display name\n• Email and password, only if you choose to link an email or use email sign-in\n• Group membership\n• Feedback, reports, and any contact information you choose to include in those submissions\n\nAutomatic:\n• Device identifiers used to recognize your account and device\n• Gameplay data (scores, mini-games played, group participation)\n• Push notification tokens and related device information, only if you enable notifications\n• Basic diagnostic and usage information included with feedback submissions"
+      },
+      {
+        "header": "2. How We Use Info",
+        "body": "We use your info to:\n• Run and improve Crown\n• Generate leaderboards and group sync\n• Detect cheating, abuse, or misuse\n• Review and respond to feedback, bug reports, support requests, and player reports\n• Contact you about your submission, your account, safety issues, technical issues, or related service matters using the contact information associated with your account or included in your message\n• Send optional gameplay notifications"
+      },
+      {
+        "header": "3. Sharing of Information",
+        "body": "We may share info with:\n• Third-party services used to host, authenticate, and operate the app (for example, Supabase)\n• Legal authorities if required\n• Aggregated or de-identified data for product improvement\n\nOther users in your private groups may see your nickname, emoji, leaderboard results, and game-related content that is shared within gameplay."
+      },
+      {
+        "header": "4. Data Retention & Account Deletion",
+        "body": "Most data is kept for app operation for as long as needed to provide the service. You can delete your account from within the app. Some limited records may be retained as required for security, fraud prevention, legal compliance, or internal recordkeeping. There is no general in-app data export feature at this time."
+      },
+      {
+        "header": "5. Children’s Privacy",
+        "body": "Crown is for users 13+. We don’t knowingly collect data from children under 13. If we learn a user is under 13, we will take steps to remove their data. Parental permission is expected for users under 18."
+      },
+      {
+        "header": "6. Security",
+        "body": "We use reasonable administrative, technical, and organizational measures designed to protect your information. Data is encrypted in transit, and access to stored data is restricted through authentication and access controls. No method of transmission or storage is completely secure."
+      },
+      {
+        "header": "7. User Options",
+        "body": "You can delete your account from within the app. Linking an email for sign-in across devices is optional. You can also choose whether to enable gameplay notifications on your device. If you submit feedback, you may choose what information to include in that message, but Crown may use the email linked to your account or any contact details you include to follow up with you about that submission or related account and safety matters."
+      },
+      {
+        "header": "8. Updates to This Policy",
+        "body": "We may update this policy and will revise the \"Last Updated\" date. Continued use means acceptance of changes."
+      },
+      {
+        "header": "9. Contact",
+        "body": "For questions or requests, contact: danzimichael13@gmail.com"
+      }
+    ]
+  }
+}
